@@ -1,9 +1,143 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.8">
   <diagram name="Страница — 1" id="-rPvX6o-ws8kVdURqApD">
-    <mxGraphModel>
+    <mxGraphModel dx="724" dy="360" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#D5E8D4" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-1" target="C0WYwkXFiXNYprLfXvUN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-1" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Готово к тестированию&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="129" y="26" width="114" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-2" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Тестирование&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="284" y="26" width="408" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;UAT&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="733" y="26" width="77" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-1" target="C0WYwkXFiXNYprLfXvUN-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="137" y="55.58" as="sourcePoint" />
+            <mxPoint x="169" y="56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-2" target="C0WYwkXFiXNYprLfXvUN-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="698" y="55.58" as="sourcePoint" />
+            <mxPoint x="730" y="56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-10" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Проверка DOR&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="43" y="130" width="125" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.501;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-2" target="C0WYwkXFiXNYprLfXvUN-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="87" as="sourcePoint" />
+            <mxPoint x="120" y="108" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-15" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;&quot;&gt;ПРАВКИ&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="11" y="26" width="76" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-15" target="C0WYwkXFiXNYprLfXvUN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="89" y="55.08" as="sourcePoint" />
+            <mxPoint x="127" y="55.08" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.211;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.005;exitY=0.511;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="163.32500000000005" as="sourcePoint" />
+            <mxPoint x="18.036000000000172" y="84.99699999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-19" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Этап анализа требований&lt;br&gt;Подготовка тест кейсов&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="135.75" width="174" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.492;exitDx=0;exitDy=0;strokeWidth=2;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-10" target="C0WYwkXFiXNYprLfXvUN-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="396" y="231" as="sourcePoint" />
+            <mxPoint x="213" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-21" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Есть дефекты&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;требований&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="238.5" y="230" width="133.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=1.003;exitY=0.501;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="371.83" y="259" as="sourcePoint" />
+            <mxPoint x="430" y="163" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-26" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Формирование тест плана&lt;br&gt;Прохождение тест кейсов&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="134" width="174" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-27" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.514;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;entryPerimeter=0;" edge="1" parent="1" target="C0WYwkXFiXNYprLfXvUN-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="307" y="199" as="sourcePoint" />
+            <mxPoint x="351" y="200.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-28" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Есть дефекты&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Функционала&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="454" y="230" width="133.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-31" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" target="C0WYwkXFiXNYprLfXvUN-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520.3199999999999" y="197.5" as="sourcePoint" />
+            <mxPoint x="520.3199999999999" y="228.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-33" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Подготовка отчета&lt;br&gt;о тестировании&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="636" y="134" width="174" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="134" as="sourcePoint" />
+            <mxPoint x="770" y="88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.492;exitDx=0;exitDy=0;strokeWidth=2;exitPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604" y="167" as="sourcePoint" />
+            <mxPoint x="635" y="168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-36" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Регистрация дефектов&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="53" y="240" width="150" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.01;exitY=0.522;exitDx=0;exitDy=0;strokeWidth=2;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-21" target="C0WYwkXFiXNYprLfXvUN-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="228" y="321" as="sourcePoint" />
+            <mxPoint x="274" y="322" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="219" y="272" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-43" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="477" y="325" as="sourcePoint" />
+            <mxPoint x="104" y="303.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="431" y="270" />
+              <mxPoint x="431" y="338" />
+              <mxPoint x="104" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0WYwkXFiXNYprLfXvUN-46" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.211;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45" y="252" as="sourcePoint" />
+            <mxPoint x="19.036000000000172" y="168.99699999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="19" y="272" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
