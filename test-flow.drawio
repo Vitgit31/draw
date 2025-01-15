@@ -103,12 +103,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0WYwkXFiXNYprLfXvUN-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0.011;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="C0WYwkXFiXNYprLfXvUN-33" source="C0WYwkXFiXNYprLfXvUN-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604" y="167" as="sourcePoint" />
-            <mxPoint x="635" y="168" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="C0WYwkXFiXNYprLfXvUN-36" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Регистрация дефектов&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="53" y="240" width="150" height="63.5" as="geometry" />
         </mxCell>
@@ -142,23 +136,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IJXry3-5Xno3knSXwMT--4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Рекомендовано внедрение ?&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="589.67" y="227" width="133.33" height="80" as="geometry" />
+          <mxGeometry x="634" y="226" width="133.33" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IJXry3-5Xno3knSXwMT--5" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="IJXry3-5Xno3knSXwMT--5" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;exitX=0.468;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IJXry3-5Xno3knSXwMT--4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="664" y="307" as="sourcePoint" />
             <mxPoint x="18" y="274" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="696" y="307" />
               <mxPoint x="658" y="307" />
               <mxPoint x="658" y="388" />
               <mxPoint x="18" y="388" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IJXry3-5Xno3knSXwMT--6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0.5;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-33" target="IJXry3-5Xno3knSXwMT--4">
+        <mxCell id="IJXry3-5Xno3knSXwMT--6" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0.5;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C0WYwkXFiXNYprLfXvUN-33" target="IJXry3-5Xno3knSXwMT--4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="556" y="176" as="sourcePoint" />
+            <mxPoint x="656" y="197" as="sourcePoint" />
             <mxPoint x="581" y="177" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJXry3-5Xno3knSXwMT--8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=1.003;exitY=0.501;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.096;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="C0WYwkXFiXNYprLfXvUN-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.33" y="269.5" as="sourcePoint" />
+            <mxPoint x="602.33" y="197.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="586" y="266" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
