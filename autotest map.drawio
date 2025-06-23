@@ -4,13 +4,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-28" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="530" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-29" value="Основные цели" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;fontColor=#004C99;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="750" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-23" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="530" height="240" as="geometry" />
+        </mxCell>
         <mxCell id="a0ukpd8Vfspqn76z_Mzr-1" value="&lt;font style=&quot;font-size: 20px; color: rgb(255, 255, 255);&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;&quot;&gt;Q3&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3399FF;strokeColor=#004C99;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="40" y="70" width="530" height="80" as="geometry" />
+          <mxGeometry x="20" y="70" width="550" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a0ukpd8Vfspqn76z_Mzr-2" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 20px; color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Q4&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=5;strokeColor=#004C99;fillColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="550" y="70" width="530" height="80" as="geometry" />
+          <mxGeometry x="550" y="70" width="540" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a0ukpd8Vfspqn76z_Mzr-4" value="&lt;font style=&quot;font-size: 36px; color: rgb(0, 102, 204);&quot; face=&quot;Verdana&quot;&gt;Тестирование 2025&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;spacingTop=2;spacingLeft=2;" vertex="1" parent="1">
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-4" value="&lt;font style=&quot;font-size: 36px; color: rgb(0, 102, 204);&quot; face=&quot;Verdana&quot;&gt;Автоматизация тестирования 2025&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;spacingTop=2;spacingLeft=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="10" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a0ukpd8Vfspqn76z_Mzr-7" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.002;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;strokeWidth=5;strokeColor=#004C99;" edge="1" parent="1" target="a0ukpd8Vfspqn76z_Mzr-2">
@@ -18,6 +27,39 @@
             <mxPoint x="549" y="640" as="sourcePoint" />
             <mxPoint x="560" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-8" value="Покрытие сервисов новой архитектуры 40%" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fontSize=11;fontColor=light-dark(#003366,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="30" y="210" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-10" value="Покрытие сервисов новой архитектуры 80%" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-13" value="Изменение flow тестирования" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="210" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-15" value="В команде 100% QA занимается автоматизацией" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="210" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-16" value="Настройка CI CD Автоматизации" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fontSize=11;fontColor=light-dark(#003366,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-17" value="100% тестов автоматизируемы" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="290" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-18" value="80% Тестов автоматизируемы" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fontSize=11;fontColor=light-dark(#003366,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-19" value="Выделены основные метрики качества.&lt;div&gt;Разработан дашборд для их мониторинга&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fontSize=11;fontColor=light-dark(#003366,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-20" value="Актуализирована тестовая модель" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fontSize=11;fontColor=light-dark(#003366,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-21" value="Внедрен порог деплоя 80% unit tests passed&lt;div&gt;Внедрен Sonar GUI&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fontSize=11;fontColor=light-dark(#003366,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ukpd8Vfspqn76z_Mzr-25" value="Основные цели" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;fontColor=#004C99;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
